@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50FD31B4-ED38-4220-B0DC-36A4749F4B0D}</ProjectGuid>
+    <ProjectGuid>{8FA3F184-1573-4F9B-AD77-1247701C2A5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CI_Project_Software</RootNamespace>
-    <AssemblyName>CI_Project_Software</AssemblyName>
+    <RootNamespace>_02_CI_CD_with_Unit_Testing</RootNamespace>
+    <AssemblyName>02_CI_CD_with_Unit_Testing</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

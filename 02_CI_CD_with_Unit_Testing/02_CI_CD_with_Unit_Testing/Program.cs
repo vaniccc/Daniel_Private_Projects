@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CI_Project_Software
+namespace _02_CI_CD_with_Unit_Testing
 {
     internal class Program
     {
