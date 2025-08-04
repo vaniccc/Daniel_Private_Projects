@@ -20,10 +20,10 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Restore
-      run: dotnet restore ./01_Simple_CI_Project/01_Simple_CI_Project.csproj
+      run: dotnet restore ./02_CI_CD_with_Unit_Testing/02_CI_CD_with_Unit_Testing.csproj
 
     - name: Build
-      run: dotnet build ./01_Simple_CI_Project/01_Simple_CI_Project.csproj --no-restore
+      run: dotnet build ./02_CI_CD_with_Unit_Testing/02_CI_CD_with_Unit_Testing.csproj --no-restore
 
     - name: Run
-      run: dotnet run --project ./01_Simple_CI_Project/01_Simple_CI_Project.csproj
+      run: dotnet run --project ./02_CI_CD_with_Unit_Testing/02_CI_CD_with_Unit_Testing.csproj
