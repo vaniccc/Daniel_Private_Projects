@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ausbildung\\CI_CD_Project_with_Unit_Testing\\CI_Project_Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD31B4-ED38-4220-B0DC-36A4749F4B0D}|CI_Project_Software\\CI_Project_Software.csproj|d:\\ausbildung\\ci_cd_project_with_unit_testing\\ci_project_software\\ci_project_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FD31B4-ED38-4220-B0DC-36A4749F4B0D}|CI_Project_Software\\CI_Project_Software.csproj|solutionrelative:ci_project_software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ausbildung\\CI_CD_Project_with_Unit_Testing\\CI_Project_Software\\CI_Project_Software\\Program.cs",
+              "RelativeDocumentMoniker": "CI_Project_Software\\Program.cs",
+              "ToolTip": "D:\\Ausbildung\\CI_CD_Project_with_Unit_Testing\\CI_Project_Software\\CI_Project_Software\\Program.cs",
+              "RelativeToolTip": "CI_Project_Software\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:26:09.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
