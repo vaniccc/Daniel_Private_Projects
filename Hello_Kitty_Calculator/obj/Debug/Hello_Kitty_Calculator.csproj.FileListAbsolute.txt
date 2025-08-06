@@ -1,0 +1,17 @@
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\bin\Debug\Hello_Kitty_Calculator.exe.config
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\bin\Debug\Hello_Kitty_Calculator.exe
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\bin\Debug\Hello_Kitty_Calculator.pdb
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator_MarkupCompile.lref
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\View\MainWindow.baml
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.g.resources
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.exe
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\Hello_Kitty_Calculator.pdb
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Desktop\Daniel_Private_Projects\Hello_Kitty_Calculator\obj\Debug\App.baml
